@@ -6,7 +6,7 @@ A modern, responsive, and professional personal portfolio website built with **R
 
 
 
-**Live Demo:** `https://your-portfolio-url.com`
+**Live Demo:** `karthik-portfolio-main-topaz.vercel.app`
 
 ---
 
