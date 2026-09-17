@@ -7,7 +7,7 @@ import profile from "../assets/profile.jpeg";
 
 const links = [["Home", "home"], ["About", "about"], ["Skills", "skills"], ["Projects", "projects"], ["Credentials", "credentials"], ["Contact", "contact"]];
 const highlights = [
-  [FiBookOpen, "Education", "B.Tech, Computer Science", "Sri Venkateswara College of Engineering and Technology · 2022–2026 · CGPA 8.4"],
+  [FiBookOpen, "Education", "B.Tech, Computer Science", "Sri Venkateswara College of Engineering and Technology · 2022–2026 · CGPA 8.6"],
   [FiCode, "Focus", "Full-stack engineering", "Designing clean REST APIs, secure backend services, and responsive React interfaces."],
   [FiCompass, "Direction", "Impactful software", "Seeking a Software Engineer or Java Full Stack Developer role to build high-performance products."],
 ];
